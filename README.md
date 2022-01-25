@@ -1,1 +1,1 @@
-# Motion-planning-Dubins-and-Reeds-Sheep-path-
+# Motion planning: Dubins and Reeds-Sheep paths
